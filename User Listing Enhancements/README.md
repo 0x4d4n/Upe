@@ -1,7 +1,3 @@
-<style>
-.markdown-body h2 {border-bottom: unset;}
-</style>
-
 # Upe Shortcodes
 
 ## Useful shortcodes that can be used within a business listing. 
