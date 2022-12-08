@@ -12,7 +12,7 @@ Simply put the shortcode on the listing where you want it to display a button to
 ![](https://i.imgur.com/ToObpfw.png)
 
 
-Depending on the language the user is viewing the page depends on the language used in the WhatsApp message. E.g. if viewing the page in English it will send the English text below, etc.
+Depending on the language the user is viewing the page depends on the language used in the WhatsApp message. E.g. if viewing the page in English it will send the English text below, if viewing in Spanish it will send the Spanish text below.
 
 
 
